@@ -2,7 +2,7 @@
 
 Site d'achat Vente en ligne
 
-Les projet demande une mise en place simple d'une application de gestion de panier. Je me suis permis d'ajouter l'authentification afin de pouvoir récupérer l'utilisateur qui a créer le panier.
+Le but du projet et de mettre entre place une application simple de gestion de panier en rajoutant l'authentification afin de pouvoir récupérer l'utilisateur qui a créer le panier. sans utilisation de base de donnes.
 
 
 ### Choix techniques
@@ -26,7 +26,7 @@ J'ai mis en place des
  * tests d'intégration 
  * Test Unitaire : Comme complement des tests d'integration.
 
-ça serait intéréssant aussi de mettre en place des tests fonctionnel (Cucumber)
+ça serait intéréssant aussi de mettre en place des tests fonctionnel (Cucumber) que je vais rajouter dans une autre version
 
 
 [Spring Security]:https://spring.io/projects/spring-security
